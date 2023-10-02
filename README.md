@@ -1,0 +1,1 @@
+# Minimal-nuxt3-vuetify3-starter
