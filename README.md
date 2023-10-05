@@ -1,5 +1,4 @@
 # Minimal-nuxt3-vuetify3-starter
-# R-Sheen Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 Look at the [Vuetify 3 documentation](https://vuetifyjs.com/en/) to learn more.
